@@ -112,7 +112,7 @@ public class EvolutionController extends HttpServlet {
 			Evolution evolution = new Evolution(idEvolution, height, weight, dateImc);
 			dao.update(evolution);
 
-			request.setAttribute("msg", "Evolu��o atualizada!");
+			request.setAttribute("msg", "Evolução atualizada!");
 
 		} catch (Exception e) {
 			e.printStackTrace();
@@ -125,7 +125,7 @@ public class EvolutionController extends HttpServlet {
 		int idEvolution = Integer.parseInt(request.getParameter("idEvolution"));
 		try {
 			dao.remove(idEvolution);
-			request.setAttribute("msg", "Evolu��o removida!");
+			request.setAttribute("msg", "Evoluçãoo removida!");
 		} catch (Exception e) {
 			e.printStackTrace();
 			request.setAttribute("erro", "Erro ao atualizar");
