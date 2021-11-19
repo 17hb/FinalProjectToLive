@@ -18,11 +18,13 @@
 						<div class="text-center my-5">
 							<h1 class="fw-bolder mb-3">Nossa missão é transformar a vida
 								das pessoas.</h1>
-							<p class="lead fw-normal text-muted mb-4">A TO'LIVE foi
-								desenvolvido com base na ideia de exercícios funcionais com foco
-								e bem estar para todos. Nossos exercícios são exclusivos,
-								criados com base na experiência de profissionais do mais alto
-								nível.</p>
+							<p class="lead fw-normal text-muted mb-4">TO'LIVE foi pensado e
+								desenvolvido com o ideal de auxiliar o usuário no bem estar e saúde.
+								Uma experiência completa em um único lugar, capaz de inserir, armazenar e editar
+							dados como dieta, evoluçao, histórico de exercícios e muito mais. Além de contar com
+							uma aba ficha médica, onde pode-se inserir informações de alergia a medicamentos e
+							alimentos, contato de emergencia, convênio.
+							Aprovite!</p>
 							<a class="btn btn-primary btn-lg" href="#scroll-target">Leia
 								Nossa História</a>
 						</div>
@@ -41,11 +43,9 @@
 					<div class="col-lg-6">
 						<h2 class="fw-bolder">Nossa fundação</h2>
 						<p class="lead fw-normal text-muted mb-0">
-							TO LIVE é um aplicativo para exercícios que respeita o fator
-							humano, por isso é mais indicado para iniciantes, direcionado
-							principalmente para aquelas pessoas que não gostam de academia,
-							não gostam de seguir dietas restritivas e possuem dificuldade em
-							manter uma rotina de exercícios. <br> <b>-#- Change
+							A ShiftCode é uma associação de alunos FIAP. Criada durante a graduação,
+							com o objetivo de desenvolver o aplicativo HealhTrack, hoje entitulado ToLive.
+							Composta por Catherina Gazzoni - Emerson Barros - Henrique Bitancourt - Wenzel Vale<br> <b>-#- Change
 								Starts Now! -#-</b>.
 						</p>
 					</div>

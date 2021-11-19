@@ -13,7 +13,7 @@
 		<!-- Page Content-->
 		<section class="py-5">
 			<div class="container px-5 my-5">
-				<div class="text-center mb-5">
+          <div class="text-center mb-5">
 					<h1 class="fw-bolder">Perfil usuário</h1>
 					<p class="lead fw-normal text-muted mb-0">Informações do perfil</p>
 				</div>

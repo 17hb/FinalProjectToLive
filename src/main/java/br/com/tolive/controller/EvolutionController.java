@@ -125,7 +125,7 @@ public class EvolutionController extends HttpServlet {
 		int idEvolution = Integer.parseInt(request.getParameter("idEvolution"));
 		try {
 			dao.remove(idEvolution);
-			request.setAttribute("msg", "Evoluçãoo removida!");
+			request.setAttribute("msg", "Evolução removida!");
 		} catch (Exception e) {
 			e.printStackTrace();
 			request.setAttribute("erro", "Erro ao atualizar");
